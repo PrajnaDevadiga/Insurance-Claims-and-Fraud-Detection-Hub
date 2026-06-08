@@ -158,5 +158,3 @@ The test suite enforces **100% code coverage** for `claim_engine.py` as configur
 
 ---
 
-## 🤝 Contribution & License
-This project is designed as part of the internal operations toolkit for claims validation and auditing. For major modifications, please ensure all unit tests pass with 100% coverage before committing.
